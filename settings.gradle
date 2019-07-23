@@ -1,0 +1,3 @@
+rootProject.name = 'text-io'
+include 'common'
+include 'common-io'
